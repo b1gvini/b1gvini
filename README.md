@@ -1,7 +1,7 @@
 <h1 align="center">Hey you! 👀 </h1>
 <h2 align="center">I'm Vinícius de França </h2>
 <h3 align="center">
-I am passionate about technologies, innovative processes, challenges, transformations and Brooklyn 99.</h3>
+I am passionate about technologies, innovative processes, challenges, transformations and Brooklyn99.</h3>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=b1gvini" alt="b1gvini" /> </p>
 
 
