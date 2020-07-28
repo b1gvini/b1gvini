@@ -11,7 +11,7 @@ I am passionate about technologies, innovative processes, challenges, transforma
 
 - 💬 How to reach me **vgf.vinicius@gmail.com**
 
-- 📄  My [resume(CV)](https://drive.google.com/file/d/15CDBPxCGEu6iR-XJ6lxCaduT6ZQYUEFB/view?usp=sharing)
+- 📄  My [resume(CV)](https://drive.google.com/file/d/1vU5Q0e6G4ZKpNfw7aeRUK5W7ZqFovYYX/view?usp=sharing)
 
 <p align="center"><img> <img src="https://github-readme-stats.vercel.app/api?username=b1gvini&show_icons=true" alt="b1gvini" /></p>
 <p align="center"> 
