@@ -39,6 +39,6 @@
 
 <a href="https://www.facebook.com/vinniGG/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
-<a href="https://b1gvini.medium.com/"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+ <a href="https://b1gvini.medium.com/"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 
 </p>
