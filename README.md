@@ -1,37 +1,38 @@
-<h1 align="center">Hey you! 👀 </h1>
-<h2 align="center">I'm Vinícius de França </h2>
-<h3 align="center">
-I am passionate about technologies, innovative processes, challenges, transformations and Brooklyn99.</h3>
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=b1gvini" alt="b1gvini" /> </p>
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+==========================================================================================================================================
 
 
-- 🎓 I study at [UFRPE](http://ufrpe.br)
+My name is Vinícius de França. I work as a Jr. Developer at Zup.
 
-- 💻 All of my projects are available here
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=b1gvini&repo=b1gvini&countColorcountColor)
 
-- 💬 How to reach me **vgf.vinicius@gmail.com**
+### Languages & Tools 🛠  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=green)&nbsp;  
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;  
 
-- 📄  My [resume(CV)](https://drive.google.com/file/d/1vU5Q0e6G4ZKpNfw7aeRUK5W7ZqFovYYX/view?usp=sharing)
 
-<p align="center"><img> <img src="https://github-readme-stats.vercel.app/api?username=b1gvini&show_icons=true" alt="b1gvini" /></p>
-<p align="center"> 
-<a href="https://twitter.com/b1gvini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="b1gvini" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/vgfranca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="b1gvini" height="20" width="20" /></a>
-<a href="https://fb.com/vinniGG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="b1gvini" height="20" width="20" /></a>
-<a href="https://instagram.com/b1gvini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="b1gvini" height="20" width="20" /></a>
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1gvini&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=b1gvini&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=b1gvini&hide_border=true)
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vgfranca/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="http://twitter.com/b1gvini"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+
+<a href="http://instagram.com/b1gvini"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+
+<a href="https://www.facebook.com/vinniGG/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+
+<a href="https://b1gvini.medium.com/"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+
 </p>
-
-<!--
-**b1gvini/b1gvini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
